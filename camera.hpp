@@ -1,4 +1,3 @@
-//
 //  camera.hpp
 //  RayTracing
 //
